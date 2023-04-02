@@ -3,10 +3,8 @@
 # @author: dtf
 '''
 开始-结束区间交叉任务数量
-
 [num：（）]
 初始化_max = max(num)
-
 使用贪心算法，先按照开始时刻排序，如果交叉就更新_max
 '''
 import sys
