@@ -15,7 +15,14 @@ def math_part():
 # all()
 
 
+'''
+字母大小写
+'''
+aa = r'fsdafa'
+print(aa.upper())
 
+aa = r'FASDFddA'
+print(aa.lower())
 
 
 
