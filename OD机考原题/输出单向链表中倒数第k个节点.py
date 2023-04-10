@@ -2,6 +2,7 @@
 # @Time  : 2023/04/10 22:37
 # @author: dtf
 
+
 class Node(object):
 
     def __init__(self, val=0):
