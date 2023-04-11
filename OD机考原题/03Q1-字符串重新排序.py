@@ -8,7 +8,6 @@
 
 from collections import defaultdict
 
-
 def main():
     data = input().split(' ')
     print(data)
