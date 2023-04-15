@@ -4,7 +4,6 @@
 
 
 '''
-
 题目理解：
 第一行输入N、L，N表示number的大小（1<=N<=10000）,L表示子数组的最大长度（1<=L<=N）
 之后行表示 number中的N个数
@@ -23,6 +22,7 @@
 import copy
 import math
 from collections import defaultdict
+
 
 def calculate_mean(arr):
     res = 1
