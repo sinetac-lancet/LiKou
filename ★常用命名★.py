@@ -15,4 +15,10 @@ result、res
 # 子串
 substring
 
+
+# 差值
+diff
+
+买 buy
+卖 sell
 '''
