@@ -7,7 +7,6 @@
 
 from typing import List
 
-
 def parse_one_line(text: str) -> List[int]:
     num_list = text.strip().split()
     return [int(num) for num in num_list]
