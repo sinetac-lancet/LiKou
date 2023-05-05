@@ -5,6 +5,8 @@
 
 # https://dream.blog.csdn.net/article/details/129217054
 
+# https://dream.blog.csdn.net/article/details/129083500
+
 from typing import List
 
 def parse_one_line(text: str) -> List[int]:
